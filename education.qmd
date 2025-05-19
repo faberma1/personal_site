@@ -1,0 +1,93 @@
+---
+title: "Education"
+---
+
+::: {style="text-align: right;"}
+<img src="images/unc.png" alt="School Logo" style="height: 80px; margin-top: 10px;"/>
+:::
+
+## Degree Details
+
+**University of North Carolina**
+
+-   *Chapel Hill, NC* \| *September 2023 - August 2027*
+
+    -   Bachelor of Science in Data Science and Bachelor of Science in Statistics & Analytics
+
+    -   GPA: 3.99/4.00
+
+## Coursework
+
+### Major Coursework
+
+#### **Fall 2023**
+
+-   MATH 233: Calculus of Functions of Several Variables
+
+-   STOR 155: Introduction to Data Models and Inference
+
+#### **Spring 2024**
+
+-   COMP 110: Introduction to Programming
+
+-   MATH 381: Discrete Mathematics
+
+#### **Fall 2024**
+
+-   COMP 210: Data Structures and Analysis
+
+-   DATA 110: Introduction to Data Science
+
+-   DATA 150: Communication for Data Scientists
+
+-   MATH 347: Linear Algebra
+
+#### **Spring 2025**
+
+-   DATA 120: Ethics of Data Science and Artificial Intelligence
+
+-   STOR 320: Introduction to Data Science
+
+-   STOR 415: Introduction to Optimization
+
+-   STOR 535: Probability for Data Science
+
+#### **Fall 2025**
+
+-   STOR 455: Methods of Data Analysis
+
+-   STOR 555: Mathematical Statistics
+
+-   STOR 565: Machine Learning
+
+### Non-Major Coursework
+
+#### **Fall 2023**
+
+-   ENGL 105: English Composition and Rhetoric
+
+-   HIST 140: The World Since 1945
+
+-   IDST 130: The Future of Food
+
+-   IDST 130L: Data Literacy Lab
+
+#### **Spring 2024**
+
+-   ASIA 75: Love in China
+
+-   ECON 101: Introduction to Economics
+
+#### **Fall 2024**
+
+-   ENGL 138: Introduction to Creative Nonfiction
+
+#### **Spring 2025**
+
+-   STOR 496: Undergraduate Reading and Research in Statistics and Operations Research
+
+#### **Fall 2025**
+
+-   SOCI 101: Sociological Perspectives
+
+-   STOR 290: Special Topics in Statistics and Operations Research

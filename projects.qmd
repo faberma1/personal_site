@@ -1,0 +1,55 @@
+---
+title: "Projects"
+---
+
+## NBA Coach Research
+
+**Abstract**: In the NBA, coaches play a crucial role in game strategy, player development, and managing team dynamics. However, quantifying coaching impact remains a challenge, as it is difficult to isolate a coach's influence from that of their players. Unlike the plethora of statistics available for evaluating players, coaching performance is assessed far more subjectively. This study introduces a new metric, Box Plus-Minus (BPM) Over Expected (BOE), that evaluates coaches based on how their players perform relative to expectations, aiming to identify those who consistently maximize their players' potential. To calculate BOE, Expected BPM (EBPM) was first computed for each player-season. Let a player's age n season represent the season when they were n years old. EBPM was derived by adjusting a player's BPM from their age n-1 season based on average aging trends for qualifying players and the deviation from the league-average qualifying player at age n-1. BOE was then calculated as the difference between a player's actual BPM in their age n season and their EBPM. According to BOE, media coach rankings tend to overrate championship-winning coaches. This is likely due to underrating the effect of superstar players such as Lebron James, Stephen Curry, and Nikola Jokić. Championships and regular-season win-loss records depend on many factors not under a coach's control. BOE provides a more nuanced assessment of a coach's system's impact by shifting the focus toward individual player performance relative to expectation. It serves as a valuable tool, in conjunction with other factors, for evaluating coaching effectiveness.
+
+<a href="files/coach_research_paper.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Paper 📄 </a>
+
+<a href="files/coach_poster.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Poster 📊 </a>
+
+## NFLPA Case Competition
+
+**Abstract**: The NFL is headlined by its superstar players, who dominate headlines and whose contracts account for a massive portion of a team's salary cap. Due to this, the players in the NFL's middle class -- dependable starters and skilled specialists -- go under-discussed and underpaid. It is the responsibility of the NFL Player's Association (NFLPA) to help correct this by adding and expanding equitable provisions in the Collective Bargaining Agreement (CBA). We divided NFL salaries into quintiles and took the middle three to represent the middle class of NFL players. We then compared standard production measures, such as passing yards for quarterbacks and receiving yards for wide receivers, to compensation share. Next, we evaluated the 2020 CBA to identify provisions that benefited the middle class. From 2010 to 2020, the middle class was increasingly under compensated relative to their performance on the field. The 2020 CBA led to an immediate 8.7% decrease in revenue share between the middle and upper class, but since then, income inequality has slowly increased again. The 2020 CBA had major successes, such as replacing the Minimum Salary Benefit with the Veteran Salary Benefit. This change directly led to an increase in veteran players in the NFL. In addition, we recommend expanding the performance-based play program, which rewards underpaid players, most of whom fall in the middle class. We also recommend instituting maximum contracts similar to the NBA to promote a more equitable share of the salary cap.
+
+<a href="files/nflpa_paper.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Paper 📄</a>
+
+<a href="files/nflpa_poster.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Poster 📊 </a>
+
+## Olympic Competition Dynamics Project
+
+**Abstract**: Since the first modern Olympic games in 1896, the global competition has undergone sizable expansion and change. In addition, with modern nutrition, training, and sports science, athletes can take care of their bodies in ways that athletes a few decades ago could not. New events are added continuously, and more countries participate than ever. To measure the overall change in the competitive dynamics of the Olympics, I looked at the distributions of medals won by country, medal times for different running and swimming events, and other key information regarding the athletes. Olympians are getting older and faster, but the medal time changes across consecutive Olympics are decreasing, suggesting these athletes are approaching their athletic peak.
+
+<a href="files/olympic_history.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Paper 📄</a>
+
+## Olympic Swimming App
+
+**Project Description**: In this project, I looked at data from Olympic swimming events to create an interactive dashboard using R Shiny that Olympic Swimming coaches could use to easily find information about their team, a Generalized Additive Model to predict future medal times for events, as well as have useful information for when they determine training plans for each swimmer.
+
+[Link to R Shiny Application](https://shanefaberman.shinyapps.io/sail_swimming_dashboard/)
+
+*Note:* For the model to work, a valid selection for Distance, Stroke, and Gender must be applied.
+
+## S&P 500 Data Analysis
+
+**Project Description**: The S&P 500 --- a collection of 500 of the leading publicly traded companies in the United States --- is arguably the most important entity for investors of all types. Due to its significance, predicting stock prices within it is extremely valuable. Many analysts spend their entire careers forecasting the market, aiming to provide an edge for their customers. In our project, we aimed to build a model to predict the price of every stock in the S&P 500 for every day in 2024, trained on data from 2015-2023. We used the model to determine which stocks and sectors overperformed and underperformed the most in 2024, and we wanted to see if any models --- ranging from simple linear models to an XGBoost model --- meaningfully outperformed predicting each stock price for a company to simply be its stock price from yesterday. We also dived deeper into sector relationships, aiming to see which sectors contributed to growth or decline in other sectors the most. To do this, we constructed a model for each sector, with the resultant variable being the mean sector price of the sector we were investigating and the predictor variables being the mean sector prices of the rest of the sectors.
+
+<a href="files/stor320_paper.html" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Paper 📄</a>
+
+<a href="files/stor320_slides.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Slides 📈 </a>
+
+## Chapel Hill Business Analysis
+
+**Project Description**: Chapel Hill is growing, and the increase in population calls for more opportunities for potential new business owners and those looking for expansion. To assist these entrepreneurs, we used current business data from the government of Chapel Hill to provide recommendations on what types of businesses to open and where to open them. We prepared a five-minute presentation meant for non-technical stakeholders and a more detailed follow-up report to clearly communicate our recommendations.
+
+<a href="files/DATA 150 final report.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Report 📑</a>
+
+<a href="files/data150_presentation.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Slides 📈</a>
+
+## Predictive Policing Ethical Investigation
+
+**Abstract**: Originating in New York at the end of the 20th century, predictive policing is a term used to describe the use of data, machine learning, and artificial intelligence to predict future crime before it happens. Though seemingly very useful, predictive policing has had a controversial history --- falsely reported and biased data were used to train models which often furthered discriminatory policing practices, and many studies found that police agencies using these models were not significantly more efficient. We performed a case study analysis on two implementations of predictive policing in the United States, Pittsburgh and Chicago, to evaluate the ethics of the systems from the viewpoint of Utilitarianism and Contractualism. Using the positives and negatives from each of the case studies, we designed a high-level implementation of predictive policing that we believe is both more ethical and efficient than current systems.
+
+<a href="files/data_120_poster.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Poster 📊</a>

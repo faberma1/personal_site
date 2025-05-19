@@ -1,0 +1,116 @@
+---
+title: "Home"
+page-layout: full
+---
+
+<style>
+
+.page-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+
+.sidebar-left {
+  width: 300px;         
+  padding: 25px;        
+  background-color: #f4f4f4;
+  border-right: 1px solid #ccc;
+  flex-shrink: 0;
+  font-size: 1.05em;     
+}
+
+.sidebar-left img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+
+.main-content {
+  padding: 30px 60px; 
+  flex-grow: 1;
+  max-width: 900px;   
+  font-size: 1.0em;     
+}
+
+/* ===== Cooking gallery ===== */
+.dish-gallery {
+  display: flex;
+  gap: 24px;           /* space between the three images */
+  flex-wrap: wrap;     /* stack on narrow screens */
+  justify-content: center;
+}
+
+.dish-gallery figure {
+  width: 220px;        /* set a uniform width */
+  margin: 0;           /* remove default figure margin */
+  text-align: center;
+}
+
+.dish-gallery img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.dish-gallery figcaption {
+  margin-top: 8px;
+  font-size: 0.9em;
+  color: #555;
+}
+</style>
+
+<div class="page-container">
+
+::: {.sidebar-left}
+<img src="images/pfp.JPG" alt="Your Photo">
+<p><strong>Shane Faberman</strong></p>
+<p>
+  <img src="images/email.png" alt="Email" style="height:32px; width:32px; vertical-align:middle; margin-right:8px;">
+  <a href="mailto:shanetyler2005@gmail.com">
+  <span style="font-size: 0.9em; white-space: nowrap;">shanetyler2005@gmail.com</span>
+  </a>
+</p>
+<p>
+  <img src="images/linkedin.png" alt="LinkedIn" style="height:32px; width:32px; vertical-align:middle; margin-right:8px;">
+  <a href="https://linkedin.com/in/shane-faberman-332b07276" target="_blank">Shane Faberman</a>
+</p>
+<p>
+  <img src="images/github.png" alt="GitHub" style="height:32px; width:32px; vertical-align:middle; margin-right:8px;">
+  <a href="https://github.com/faberma1" target="_blank">@faberma1</a>
+</p>
+:::
+
+::: {.main-content}
+
+## About Me
+My name is Shane Faberman, and I'm currently a student studying Statistics and Data Science at the University of North Carolina at Chapel Hill (Class of 2027). I'm passionate about working with data to explore meaningful questions, and I have experience in both industry — through internships at at WillowTree (Now TELUS Digital) and QlikTech — and academic research. I enjoy using my technical skills to find creative solutions for real-world data science problems.
+
+Outside of the classroom, I'm a huge sports fan, particularly football and basketball. I love being active, whether that’s playing sports, going to the gym, or exploring new places outdoors. I also enjoy cooking as a creative outlet. Below are a few of my favorite recipes that I’ve made over the years.
+
+
+## A Few Dishes I’ve Cooked
+<div class="dish-gallery">
+  <figure>
+    <img src="images/steak.jpeg" alt="Steak">
+    <figcaption>Garlic butter basted steak with roasted Brussels sprouts and potatoes</figcaption>
+  </figure>
+
+  <figure>
+    <img src="images/pesto.jpeg" alt="Pesto Chicken">
+    <figcaption>Pan-seared Italian chicken served over homemade pesto pasta, tossed with tomatoes, onions, and mushrooms</figcaption>
+  </figure>
+
+  <figure>
+    <img src="images/tacos.jpeg" alt="Tacos">
+    <figcaption>
+  <b>Top:</b> Chipotle-grilled chicken taco topped with guacamole, chipotle crema, and crumbled cotija cheese.  
+  <b>Bottom:</b> Marinated steak taco with sautéed fajita vegetables, pico de gallo, salsa verde, and Oaxaca cheese.
+</figcaption>
+  </figure>
+</div>
+
+:::
+
+</div>
