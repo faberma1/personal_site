@@ -70,6 +70,20 @@
     "text": "NFLPA Case Competition\nAbstract: The NFL is headlined by its superstar players, who dominate headlines and whose contracts account for a massive portion of a team’s salary cap. Due to this, the players in the NFL’s middle class – dependable starters and skilled specialists – go under-discussed and underpaid. It is the responsibility of the NFL Player’s Association (NFLPA) to help correct this by adding and expanding equitable provisions in the Collective Bargaining Agreement (CBA). We divided NFL salaries into quintiles and took the middle three to represent the middle class of NFL players. We then compared standard production measures, such as passing yards for quarterbacks and receiving yards for wide receivers, to compensation share. Next, we evaluated the 2020 CBA to identify provisions that benefited the middle class. From 2010 to 2020, the middle class was increasingly under compensated relative to their performance on the field. The 2020 CBA led to an immediate 8.7% decrease in revenue share between the middle and upper class, but since then, income inequality has slowly increased again. The 2020 CBA had major successes, such as replacing the Minimum Salary Benefit with the Veteran Salary Benefit. This change directly led to an increase in veteran players in the NFL. In addition, we recommend expanding the performance-based play program, which rewards underpaid players, most of whom fall in the middle class. We also recommend instituting maximum contracts similar to the NBA to promote a more equitable share of the salary cap.\n Paper 📄\n Poster 📊"
   },
   {
+    "objectID": "projects.html#chapel-hill-business-analysis",
+    "href": "projects.html#chapel-hill-business-analysis",
+    "title": "Projects",
+    "section": "Chapel Hill Business Analysis",
+    "text": "Chapel Hill Business Analysis\nProject Description: Chapel Hill is growing, and the increase in population calls for more opportunities for potential new business owners and those looking for expansion. To assist these entrepreneurs, we used current business data from the government of Chapel Hill to provide recommendations on what types of businesses to open and where to open them. We prepared a five-minute presentation meant for non-technical stakeholders and a more detailed follow-up report to clearly communicate our recommendations.\n Report 📑\n Slides 📈"
+  },
+  {
+    "objectID": "projects.html#nba-draft-lottery-simulator",
+    "href": "projects.html#nba-draft-lottery-simulator",
+    "title": "Projects",
+    "section": "2025 NBA Draft Lottery Simulator",
+    "text": "2025 NBA Draft Lottery Simulator\nProject Description: As a Philadelphia 76ers fan, the 2025 NBA Draft Lottery was a rollercoaster. After San Antonio and Dallas jumped to the top 4, it seemed very unlikely that the Sixers would keep their top-6-protected first-round pick. However, just a few picks later, the Sixers were the overwhelming favorite to receive the first overall pick. Inspired by this, I created a 2025 NBA Draft Lottery Simulator that allows the user to see the simulated probabilities for each team to receive each pick, with the option to force a team into a specific pick. This lets the user go back in time to look at the updated odds before each pick or at entirely other scenarios that didn’t happen.\nLink to R Shiny Application"
+  },
+  {
     "objectID": "projects.html#olympic-competition-dynamics-project",
     "href": "projects.html#olympic-competition-dynamics-project",
     "title": "Projects",
@@ -89,13 +103,6 @@
     "title": "Projects",
     "section": "S&P 500 Data Analysis",
     "text": "S&P 500 Data Analysis\nProject Description: The S&P 500 — a collection of 500 of the leading publicly traded companies in the United States — is arguably the most important entity for investors of all types. Due to its significance, predicting stock prices within it is extremely valuable. Many analysts spend their entire careers forecasting the market, aiming to provide an edge for their customers. In our project, we aimed to build a model to predict the price of every stock in the S&P 500 for every day in 2024, trained on data from 2015-2023. We used the model to determine which stocks and sectors overperformed and underperformed the most in 2024, and we wanted to see if any models — ranging from simple linear models to an XGBoost model — meaningfully outperformed predicting each stock price for a company to simply be its stock price from yesterday. We also dived deeper into sector relationships, aiming to see which sectors contributed to growth or decline in other sectors the most. To do this, we constructed a model for each sector, with the resultant variable being the mean sector price of the sector we were investigating and the predictor variables being the mean sector prices of the rest of the sectors.\n Paper 📄\n Slides 📈"
-  },
-  {
-    "objectID": "projects.html#chapel-hill-business-analysis",
-    "href": "projects.html#chapel-hill-business-analysis",
-    "title": "Projects",
-    "section": "Chapel Hill Business Analysis",
-    "text": "Chapel Hill Business Analysis\nProject Description: Chapel Hill is growing, and the increase in population calls for more opportunities for potential new business owners and those looking for expansion. To assist these entrepreneurs, we used current business data from the government of Chapel Hill to provide recommendations on what types of businesses to open and where to open them. We prepared a five-minute presentation meant for non-technical stakeholders and a more detailed follow-up report to clearly communicate our recommendations.\n Report 📑\n Slides 📈"
   },
   {
     "objectID": "projects.html#predictive-policing-ethical-investigation",
