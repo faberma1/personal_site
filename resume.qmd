@@ -12,7 +12,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 ## Skills
 
-R, R Shiny, Python, Java, Excel, Tableau, Qlik Sense, Quarto, AMPL, Markdown, Microsoft Office
+R, R Shiny, Python, JavaScript, Excel, Tableau, Qlik Sense, Quarto, AMPL, Markdown, Microsoft Office
 
 ## Related Work Experience
 
@@ -74,7 +74,7 @@ R, R Shiny, Python, Java, Excel, Tableau, Qlik Sense, Quarto, AMPL, Markdown, Mi
 
 -   Promoted to front-of-store customer service duties and given store-closing responsibility
 
-## High School Projects
+## High School Positions
 
 ### Upper Dublin High School Baseball Team
 

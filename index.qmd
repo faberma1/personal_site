@@ -34,17 +34,17 @@ page-layout: full
   font-size: 1.0em;     
 }
 
-/* ===== Cooking gallery ===== */
+
 .dish-gallery {
   display: flex;
-  gap: 24px;           /* space between the three images */
-  flex-wrap: wrap;     /* stack on narrow screens */
+  gap: 24px;         
+  flex-wrap: wrap;     
   justify-content: center;
 }
 
 .dish-gallery figure {
-  width: 220px;        /* set a uniform width */
-  margin: 0;           /* remove default figure margin */
+  width: 220px;        
+  margin: 0;          
   text-align: center;
 }
 
@@ -64,7 +64,7 @@ page-layout: full
 <div class="page-container">
 
 ::: {.sidebar-left}
-<img src="images/pfp.JPG" alt="Your Photo">
+<img src="images/pfp.JPG" alt="Photo">
 <p><strong>Shane Faberman</strong></p>
 <p>
   <img src="images/email.png" alt="Email" style="height:32px; width:32px; vertical-align:middle; margin-right:8px;">
