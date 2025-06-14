@@ -10,6 +10,10 @@ title: "Projects"
 
 <a href="files/coach_poster.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Poster 📊 </a>
 
+After presenting my research at [UNC's Celebration of Undergraduate Research](https://our.unc.edu/share/celebration/), I was honored to be selected by [Scott Jared](https://www.linkedin.com/in/scottjared/) of UNC's The Well to have my research profiled.
+
+<a href="https://www.unc.edu/posts/2025/06/06/student-creates-new-way-to-rank-nba-coaches/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #7BAFD4; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Profile 👤 </a>
+
 ## NFLPA Case Competition
 
 **Abstract**: The NFL is headlined by its superstar players, who dominate headlines and whose contracts account for a massive portion of a team's salary cap. Due to this, the players in the NFL's middle class -- dependable starters and skilled specialists -- go under-discussed and underpaid. It is the responsibility of the NFL Player's Association (NFLPA) to help correct this by adding and expanding equitable provisions in the Collective Bargaining Agreement (CBA). We divided NFL salaries into quintiles and took the middle three to represent the middle class of NFL players. We then compared standard production measures, such as passing yards for quarterbacks and receiving yards for wide receivers, to compensation share. Next, we evaluated the 2020 CBA to identify provisions that benefited the middle class. From 2010 to 2020, the middle class was increasingly under compensated relative to their performance on the field. The 2020 CBA led to an immediate 8.7% decrease in revenue share between the middle and upper class, but since then, income inequality has slowly increased again. The 2020 CBA had major successes, such as replacing the Minimum Salary Benefit with the Veteran Salary Benefit. This change directly led to an increase in veteran players in the NFL. In addition, we recommend expanding the performance-based play program, which rewards underpaid players, most of whom fall in the middle class. We also recommend instituting maximum contracts similar to the NBA to promote a more equitable share of the salary cap.
@@ -59,3 +63,11 @@ title: "Projects"
 **Abstract**: Originating in New York at the end of the 20th century, predictive policing is a term used to describe the use of data, machine learning, and artificial intelligence to predict future crime before it happens. Though seemingly very useful, predictive policing has had a controversial history --- falsely reported and biased data were used to train models which often furthered discriminatory policing practices, and many studies found that police agencies using these models were not significantly more efficient. We performed a case study analysis on two implementations of predictive policing in the United States, Pittsburgh and Chicago, to evaluate the ethics of the systems from the viewpoint of Utilitarianism and Contractualism. Using the positives and negatives from each of the case studies, we designed a high-level implementation of predictive policing that we believe is both more ethical and efficient than current systems.
 
 <a href="files/data_120_poster.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Poster 📊</a>
+
+## Sets of Bernoulli Trials Comparison
+
+**Project Description**: In this project, I explored a statistical question that I was interested in. Given two sets of Bernoulli trials (Ex: 10 trials vs 100 trials) with the same success probability, which set ends up with a higher observed success rate more often?
+
+This app simulates each set of trials 10,000 times to answer this question. Users can adjust the success probability and the number of trials in both sets, from 1 to 10,000.
+
+<a href="https://shanefaberman.shinyapps.io/win_percentage/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> R Shiny App 🛜 </a>
