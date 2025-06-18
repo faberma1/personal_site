@@ -18,21 +18,21 @@
     "href": "resume.html#skills",
     "title": "Resume",
     "section": "Skills",
-    "text": "Skills\nR, R Shiny, Python, JavaScript, Excel, Tableau, Qlik Sense, Quarto, AMPL, Markdown, Microsoft Office"
+    "text": "Skills\nR, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform Tableau, JavaScript, Qlik Sense, Quarto, AMPL, Markdown"
   },
   {
     "objectID": "resume.html#related-work-experience",
     "href": "resume.html#related-work-experience",
     "title": "Resume",
     "section": "Related Work Experience",
-    "text": "Related Work Experience\n\nWillowTree (Now TELUS Digital)\nAnalytics Intern | Summer 2025\n\nFill out\n\n\n\nQlikTech Inc.\nAnalytics Intern | March 2022 – March 2024 (Seasonal)\n\nContributed to the creation and editing of technical documentation for annual software product conference for 3000 users\nCo-created customer relationship data analysis application using QlikTech software which used KPIs and other data to monitor keymetrics such as website traffic\nUsed Excel to organize thousands of employee equity documents to ensure the accuracy and completeness of each employee’s files\nShadowed a Senior Data Scientist to learn key industry techniques"
+    "text": "Related Work Experience\n\nWillowTree (Now TELUS Digital)\nAnalytics Intern | Summer 2025\n\nDesigned, implemented, and tested a unified, scalable schema for a client’s web and mobile applications using Adobe tools.\nIdentified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database using BigQuery.\nDeveloped a bot classification model with Python to improve a client’s bot recognition, reducing skew in web analytics data.\n\n\n\nQlikTech Inc.\nAnalytics Intern | March 2022 – March 2024 (Seasonal)\n\nContributed to the creation and editing of technical documentation for annual software product conference for 3000 users\nCo-created customer relationship data analysis application using QlikTech software which used KPIs and other data to monitor keymetrics such as website traffic\nUsed Excel to organize thousands of employee equity documents to ensure the accuracy and completeness of each employee’s files\nShadowed a Senior Data Scientist to learn key industry techniques"
   },
   {
     "objectID": "resume.html#research",
     "href": "resume.html#research",
     "title": "Resume",
     "section": "Research",
-    "text": "Research\n\nUNC Sports Analytics Intelligence Lab\nUndergraduate Student Analyst | September 2024-Present\n\nDiagnose and investigate ways to improve athlete training and team performance across UNC Division 1 athletics\nClearly and simply articulate technical sports analytics research to coaches without analytical expertise\nConstruct informative and interactive visualizations and mathematical models, and analyze complex datasets using software such as R\nCollaborate with other undergraduate and graduate students on case competitions and independent research projects\nUtilize crucial data science skills such as web-scraping, data wrangling, and visualization\n\n\n\nBASKET Research\nAugust 2025-Present\n\nFill out"
+    "text": "Research\n\nUNC Sports Analytics Intelligence Lab\nUndergraduate Student Analyst | September 2024-Present\n\nDiagnose and investigate ways to improve athlete training and team performance across UNC Division 1 athletics\nClearly and simply articulate technical sports analytics research to coaches without analytical expertise\nConstruct informative and interactive visualizations and mathematical models, and analyze complex datasets using software such as R\nCollaborate with other undergraduate and graduate students on case competitions and independent research projects\nUtilize crucial data science skills such as web-scraping, data wrangling, and visualization"
   },
   {
     "objectID": "resume.html#additional-work-experience",
@@ -47,6 +47,13 @@
     "title": "Resume",
     "section": "High School Positions",
     "text": "High School Positions\n\nUpper Dublin High School Baseball Team\nStatistics Manager | Spring 2022\n\nCollected and organized 25 players’ statistics at each game\nUpdated live play-by-play game data and used it to advise coaches on in-game decisions, such as pinch-hitting and relief pitcher decisions\nSelected by coaching staff from a pool of 50 students to perform the role\n\n\n\nUpper Dublin High School Basketball Team\nAnalytics Innovator | November 2021-February 2022\n\nSpent 15 hours self-learning QlikTech analytics software\nCreated a custom app using QlikTech software highlighting performance, including individual shot-making and team offensive efficiency\nEmpowered coaches with an innovative decision-making process to determine the distribution of minutes for each player and allowed for the creation of a new offensive scheme"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "Certifications",
+    "text": "Certifications\n\nAdobe Customer Journey Analytics Business Practitioner\nPassed June 2025"
   },
   {
     "objectID": "projects.html",

@@ -4,7 +4,7 @@ title: "Resume"
 
 ## Paper Resume
 
-<iframe src="files/spring2025_resume.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="files/summer2025_resume.pdf" width="100%" height="600px" style="border: none;">
 
 This browser does not support PDFs. Please download the PDF to view it: <a href="files/resume.pdf">Download PDF</a>.
 
@@ -12,7 +12,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 ## Skills
 
-R, R Shiny, Python, JavaScript, Excel, Tableau, Qlik Sense, Quarto, AMPL, Markdown, Microsoft Office
+R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform Tableau, JavaScript, Qlik Sense, Quarto, AMPL, Markdown 
 
 ## Related Work Experience
 
@@ -20,7 +20,9 @@ R, R Shiny, Python, JavaScript, Excel, Tableau, Qlik Sense, Quarto, AMPL, Markdo
 
 *Analytics Intern* \| *Summer 2025*
 
--   Fill out
+-   Designed, implemented, and tested a unified, scalable schema for a client’s web and mobile applications using Adobe tools. 
+-   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database using BigQuery. 
+-   Developed a bot classification model with Python to improve a client’s bot recognition, reducing skew in web analytics data. 
 
 ### QlikTech Inc.
 
@@ -45,12 +47,6 @@ R, R Shiny, Python, JavaScript, Excel, Tableau, Qlik Sense, Quarto, AMPL, Markdo
 -   Construct informative and interactive visualizations and mathematical models, and analyze complex datasets using software such as R
 -   Collaborate with other undergraduate and graduate students on case competitions and independent research projects
 -   Utilize crucial data science skills such as web-scraping, data wrangling, and visualization
-
-### BASKET Research
-
-*August 2025-Present*
-
--   Fill out
 
 ## Additional Work Experience
 
@@ -95,3 +91,9 @@ R, R Shiny, Python, JavaScript, Excel, Tableau, Qlik Sense, Quarto, AMPL, Markdo
 -   Created a custom app using QlikTech software highlighting performance, including individual shot-making and team offensive efficiency
 
 -   Empowered coaches with an innovative decision-making process to determine the distribution of minutes for each player and allowed for the creation of a new offensive scheme
+
+## Certifications
+
+### Adobe Customer Journey Analytics Business Practitioner
+
+*Passed June 2025*
