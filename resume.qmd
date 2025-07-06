@@ -22,7 +22,7 @@ R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experien
 
 -   Designed, implemented, and tested a unified, scalable schema for a client’s web and mobile applications using Adobe tools. 
 -   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database using BigQuery. 
--   Developed a bot classification model with Python to improve a client’s bot recognition, reducing skew in web analytics data. 
+-   Developed a bot classification model within BigQuery to improve a client’s bot recognition, reducing skew in web analytics data. 
 
 ### QlikTech Inc.
 
