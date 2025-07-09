@@ -4,7 +4,7 @@ title: "Resume"
 
 ## Paper Resume
 
-<iframe src="files/summer2025_resume.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="files/july2025_resume.pdf" width="100%" height="600px" style="border: none;">
 
 This browser does not support PDFs. Please download the PDF to view it: <a href="files/resume.pdf">Download PDF</a>.
 
@@ -12,7 +12,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 ## Skills
 
-R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform Tableau, JavaScript, Qlik Sense, Quarto, AMPL, Markdown 
+R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform, Google Analytics 4, Tableau, JavaScript, Qlik Sense, Quarto, AMPL, Markdown
 
 ## Related Work Experience
 
@@ -95,5 +95,9 @@ R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experien
 ## Certifications
 
 ### Adobe Customer Journey Analytics Business Practitioner
+
+*Passed June 2025*
+
+### Google Analytics
 
 *Passed June 2025*
