@@ -4,7 +4,7 @@ title: "Resume"
 
 ## Paper Resume
 
-<iframe src="files/july2025_resume.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="files/august2025_resume.pdf" width="100%" height="600px" style="border: none;">
 
 This browser does not support PDFs. Please download the PDF to view it: <a href="files/resume.pdf">Download PDF</a>.
 
@@ -12,7 +12,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 ## Skills
 
-R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform, Google Analytics 4, Tableau, JavaScript, Qlik Sense, Quarto, AMPL, Markdown
+R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform, Google Analytics 4, Looker, Tableau, JavaScript, Qlik Sense, Quarto, AMPL
 
 ## Related Work Experience
 
@@ -21,8 +21,8 @@ R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experien
 *Analytics Intern* \| *Summer 2025*
 
 -   Designed, implemented, and tested a unified, scalable schema for a client’s web and mobile applications using Adobe tools. 
--   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database using BigQuery. 
--   Developed a bot classification model within BigQuery to improve a client’s bot recognition, reducing skew in web analytics data. 
+-   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database, and developed a bot classification model to improve their bot recognition using BigQuery. 
+-   Improved a company-wide Looker dashboard used by survey captains to analyze biweekly team sentiment and inform workflow improvements across all projects.
 
 ### QlikTech Inc.
 
