@@ -20,7 +20,7 @@ R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experien
 
 *Analytics Intern* \| *Summer 2025*
 
--   Designed, implemented, and tested a unified, scalable schema for a Fortune 500 client’s web and mobile applications using Adobe tools. 
+-   Designed, implemented, and tested a unified, scalable schema for a global hospitality client’s web and mobile applications using Adobe tools. 
 -   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database, and developed a bot classification model to improve their bot recognition using BigQuery. 
 -   Improved a company-wide Looker dashboard used by survey captains to analyze biweekly team sentiment and inform workflow improvements across all projects.
 
