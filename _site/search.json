@@ -1,59 +1,17 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"files/resume.pdf\"&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;"
+    "objectID": "education.html#degree-details",
+    "href": "education.html#degree-details",
+    "title": "Education",
+    "section": "Degree Details",
+    "text": "Degree Details\nUniversity of North Carolina\n\nChapel Hill, NC | September 2023 - August 2027\n\nBachelor of Science in Data Science and Bachelor of Science in Statistics & Analytics\nGPA: 3.99/4.00"
   },
   {
-    "objectID": "resume.html#paper-resume",
-    "href": "resume.html#paper-resume",
-    "title": "Resume",
-    "section": "",
-    "text": "&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"files/resume.pdf\"&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Resume",
-    "section": "Skills",
-    "text": "Skills\nR, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform, Google Analytics 4, Looker, Tableau, JavaScript, Qlik Sense, Quarto, AMPL"
-  },
-  {
-    "objectID": "resume.html#related-work-experience",
-    "href": "resume.html#related-work-experience",
-    "title": "Resume",
-    "section": "Related Work Experience",
-    "text": "Related Work Experience\n\nWillowTree (Now TELUS Digital)\nAnalytics Intern | Summer 2025\n\nDesigned, implemented, and tested a unified, scalable schema for a global hospitality client’s web and mobile applications using Adobe tools.\nIdentified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database, and developed a bot classification model to improve their bot recognition using BigQuery.\nImproved a company-wide Looker dashboard used by survey captains to analyze biweekly team sentiment and inform workflow improvements across all projects.\n\n\n\nQlikTech Inc.\nAnalytics Intern | March 2022 – March 2024 (Seasonal)\n\nContributed to the creation and editing of technical documentation for annual software product conference for 3000 users\nCo-created customer relationship data analysis application using QlikTech software which used KPIs and other data to monitor keymetrics such as website traffic\nUsed Excel to organize thousands of employee equity documents to ensure the accuracy and completeness of each employee’s files\nShadowed a Senior Data Scientist to learn key industry techniques"
-  },
-  {
-    "objectID": "resume.html#research",
-    "href": "resume.html#research",
-    "title": "Resume",
-    "section": "Research",
-    "text": "Research\n\nUNC Sports Analytics Intelligence Lab\nUndergraduate Student Analyst | September 2024-Present\n\nDiagnose and investigate ways to improve athlete training and team performance across UNC Division 1 athletics\nClearly and simply articulate technical sports analytics research to coaches without analytical expertise\nConstruct informative and interactive visualizations and mathematical models, and analyze complex datasets using software such as R\nCollaborate with other undergraduate and graduate students on case competitions and independent research projects\nUtilize crucial data science skills such as web-scraping, data wrangling, and visualization"
-  },
-  {
-    "objectID": "resume.html#additional-work-experience",
-    "href": "resume.html#additional-work-experience",
-    "title": "Resume",
-    "section": "Additional Work Experience",
-    "text": "Additional Work Experience\n\nLake Owego Camp for Boys\nJunior Division Unit Leader/Bunk Counselor | June 2022-August 2024 (Seasonal)\n\nCoordinated creative, fun, daily activities for 100 campers aged 7-12\nManaged disputes between campers and assisted counselors with day-to-day issues\nChosen to share responsibility for youngest first-time campers during multiple summers\nPromoted to Unit Leader for the youngest division of campers after second summer\n\n\n\nPrimo’s Hoagies\nSandwich Dresser/Cashier | August 2020 - June 2021\n\nHand-crafted dozens of sandwiches per hour in a fast-paced environment, focusing on quality and presentation to ensure repeat customers\nPromoted to front-of-store customer service duties and given store-closing responsibility"
-  },
-  {
-    "objectID": "resume.html#high-school-positions",
-    "href": "resume.html#high-school-positions",
-    "title": "Resume",
-    "section": "High School Positions",
-    "text": "High School Positions\n\nUpper Dublin High School Baseball Team\nStatistics Manager | Spring 2022\n\nCollected and organized 25 players’ statistics at each game\nUpdated live play-by-play game data and used it to advise coaches on in-game decisions, such as pinch-hitting and relief pitcher decisions\nSelected by coaching staff from a pool of 50 students to perform the role\n\n\n\nUpper Dublin High School Basketball Team\nAnalytics Innovator | November 2021-February 2022\n\nSpent 15 hours self-learning QlikTech analytics software\nCreated a custom app using QlikTech software highlighting performance, including individual shot-making and team offensive efficiency\nEmpowered coaches with an innovative decision-making process to determine the distribution of minutes for each player and allowed for the creation of a new offensive scheme"
-  },
-  {
-    "objectID": "resume.html#certifications",
-    "href": "resume.html#certifications",
-    "title": "Resume",
-    "section": "Certifications",
-    "text": "Certifications\n\nAdobe Customer Journey Analytics Business Practitioner\nPassed June 2025\n\n\nGoogle Analytics\nPassed June 2025"
+    "objectID": "education.html#coursework",
+    "href": "education.html#coursework",
+    "title": "Education",
+    "section": "Coursework",
+    "text": "Coursework\n\nMajor Coursework\n\nFall 2023\n\nMATH 233: Calculus of Functions of Several Variables\nSTOR 155: Introduction to Data Models and Inference\n\n\n\nSpring 2024\n\nCOMP 110: Introduction to Programming\nMATH 381: Discrete Mathematics\n\n\n\nFall 2024\n\nCOMP 210: Data Structures and Analysis\nDATA 110: Introduction to Data Science\nDATA 150: Communication for Data Scientists\nMATH 347: Linear Algebra\n\n\n\nSpring 2025\n\nDATA 120: Ethics of Data Science and Artificial Intelligence\nSTOR 320: Introduction to Data Science\nSTOR 415: Introduction to Optimization\nSTOR 535: Probability for Data Science\n\n\n\nFall 2025\n\nSTOR 455: Methods of Data Analysis\nSTOR 555: Mathematical Statistics\nSTOR 565: Machine Learning\n\n\n\n\nNon-Major Coursework\n\nFall 2023\n\nENGL 105: English Composition and Rhetoric\nHIST 140: The World Since 1945\nIDST 130: The Future of Food\nIDST 130L: Data Literacy Lab\n\n\n\nSpring 2024\n\nASIA 75: Love in China\nECON 101: Introduction to Economics\n\n\n\nFall 2024\n\nENGL 138: Introduction to Creative Nonfiction\n\n\n\nSpring 2025\n\nSTOR 496: Undergraduate Reading and Research in Statistics and Operations Research\n\n\n\nFall 2025\n\nSOCI 101: Sociological Perspectives\nSTOR 290: Special Topics in Statistics and Operations Research"
   },
   {
     "objectID": "projects.html",
@@ -126,6 +84,62 @@
     "text": "Sets of Bernoulli Trials Comparison\nProject Description: In this project, I explored a statistical question that I was interested in. Given two sets of Bernoulli trials (Ex: 10 trials vs 100 trials) with the same success probability, which set ends up with a higher observed success rate more often?\nThis app simulates each set of trials 10,000 times to answer this question. Users can adjust the success probability and the number of trials in both sets, from 1 to 10,000.\n R Shiny App 🛜"
   },
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"files/resume.pdf\"&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;"
+  },
+  {
+    "objectID": "resume.html#paper-resume",
+    "href": "resume.html#paper-resume",
+    "title": "Resume",
+    "section": "",
+    "text": "&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"files/resume.pdf\"&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\nR, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform, Google Analytics 4, Looker, Tableau, JavaScript, Qlik Sense, Quarto, AMPL"
+  },
+  {
+    "objectID": "resume.html#related-work-experience",
+    "href": "resume.html#related-work-experience",
+    "title": "Resume",
+    "section": "Related Work Experience",
+    "text": "Related Work Experience\n\nWillowTree (Now TELUS Digital)\nAnalytics Intern | Summer 2025\n\nDesigned, implemented, and tested a unified, scalable schema for a global hospitality client’s web and mobile applications using Adobe tools.\nIdentified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database, and developed a bot classification model to improve their bot recognition using BigQuery.\nImproved a company-wide Looker dashboard used by survey captains to analyze biweekly team sentiment and inform workflow improvements across all projects.\n\n\n\nQlikTech Inc.\nAnalytics Intern | March 2022 – March 2024 (Seasonal)\n\nContributed to the creation and editing of technical documentation for annual software product conference for 3000 users\nCo-created an interactive customer relationship analysis application in QlikTech, leveraging business intelligence techniques to monitor key metrics such as website session traffic.\nUsed Excel to organize thousands of employee equity documents to ensure the accuracy and completeness of each employee’s files\nShadowed a Senior Data Scientist to learn key industry techniques"
+  },
+  {
+    "objectID": "resume.html#research",
+    "href": "resume.html#research",
+    "title": "Resume",
+    "section": "Research",
+    "text": "Research\n\nUNC Sports Analytics Intelligence Lab\nUndergraduate Student Analyst | September 2024-Present\n\nDiagnose and investigate ways to improve athlete training and team performance across UNC Division 1 athletics\nClearly and simply articulate technical sports analytics research to coaches without analytical expertise\nConstruct informative and interactive visualizations and mathematical models, and analyze complex datasets using software such as R\nCollaborate with other undergraduate and graduate students on case competitions and independent research projects\nUtilize crucial data science skills such as web-scraping, data wrangling, and visualization"
+  },
+  {
+    "objectID": "resume.html#additional-work-experience",
+    "href": "resume.html#additional-work-experience",
+    "title": "Resume",
+    "section": "Additional Work Experience",
+    "text": "Additional Work Experience\n\nLake Owego Camp for Boys\nJunior Division Unit Leader/Bunk Counselor | June 2022-August 2024 (Seasonal)\n\nCoordinated creative, fun, daily activities for 100 campers aged 7-12\nManaged disputes between campers and assisted counselors with day-to-day issues\nChosen to share responsibility for youngest first-time campers during multiple summers\nPromoted to Unit Leader for the youngest division of campers after second summer\n\n\n\nPrimo’s Hoagies\nSandwich Dresser/Cashier | August 2020 - June 2021\n\nHand-crafted dozens of sandwiches per hour in a fast-paced environment, focusing on quality and presentation to ensure repeat customers\nPromoted to front-of-store customer service duties and given store-closing responsibility"
+  },
+  {
+    "objectID": "resume.html#high-school-positions",
+    "href": "resume.html#high-school-positions",
+    "title": "Resume",
+    "section": "High School Positions",
+    "text": "High School Positions\n\nUpper Dublin High School Baseball Team\nStatistics Manager | Spring 2022\n\nCollected and organized 25 players’ statistics at each game\nUpdated live play-by-play game data and used it to advise coaches on in-game decisions, such as pinch-hitting and relief pitcher decisions\nSelected by coaching staff from a pool of 50 students to perform the role\n\n\n\nUpper Dublin High School Basketball Team\nAnalytics Innovator | November 2021-February 2022\n\nSpent 15 hours self-learning QlikTech analytics software\nCreated a custom app using QlikTech software highlighting performance, including individual shot-making and team offensive efficiency\nEmpowered coaches with an innovative decision-making process to determine the distribution of minutes for each player and allowed for the creation of a new offensive scheme"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "Certifications",
+    "text": "Certifications\n\nAdobe Customer Journey Analytics Business Practitioner\nPassed June 2025\n\n\nGoogle Analytics\nPassed June 2025"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -145,19 +159,5 @@
     "title": "Home",
     "section": "",
     "text": "Garlic butter basted steak with roasted Brussels sprouts and potatoes\n\n\n\n\n\nPan-seared Italian chicken served over homemade pesto pasta, tossed with tomatoes, onions, and mushrooms\n\n\n\n\n\nTop: Chipotle-grilled chicken taco topped with guacamole, chipotle crema, and crumbled cotija cheese.\nBottom: Marinated steak taco with sautéed fajita vegetables, pico de gallo, salsa verde, and Oaxaca cheese."
-  },
-  {
-    "objectID": "education.html#degree-details",
-    "href": "education.html#degree-details",
-    "title": "Education",
-    "section": "Degree Details",
-    "text": "Degree Details\nUniversity of North Carolina\n\nChapel Hill, NC | September 2023 - August 2027\n\nBachelor of Science in Data Science and Bachelor of Science in Statistics & Analytics\nGPA: 3.99/4.00"
-  },
-  {
-    "objectID": "education.html#coursework",
-    "href": "education.html#coursework",
-    "title": "Education",
-    "section": "Coursework",
-    "text": "Coursework\n\nMajor Coursework\n\nFall 2023\n\nMATH 233: Calculus of Functions of Several Variables\nSTOR 155: Introduction to Data Models and Inference\n\n\n\nSpring 2024\n\nCOMP 110: Introduction to Programming\nMATH 381: Discrete Mathematics\n\n\n\nFall 2024\n\nCOMP 210: Data Structures and Analysis\nDATA 110: Introduction to Data Science\nDATA 150: Communication for Data Scientists\nMATH 347: Linear Algebra\n\n\n\nSpring 2025\n\nDATA 120: Ethics of Data Science and Artificial Intelligence\nSTOR 320: Introduction to Data Science\nSTOR 415: Introduction to Optimization\nSTOR 535: Probability for Data Science\n\n\n\nFall 2025\n\nSTOR 455: Methods of Data Analysis\nSTOR 555: Mathematical Statistics\nSTOR 565: Machine Learning\n\n\n\n\nNon-Major Coursework\n\nFall 2023\n\nENGL 105: English Composition and Rhetoric\nHIST 140: The World Since 1945\nIDST 130: The Future of Food\nIDST 130L: Data Literacy Lab\n\n\n\nSpring 2024\n\nASIA 75: Love in China\nECON 101: Introduction to Economics\n\n\n\nFall 2024\n\nENGL 138: Introduction to Creative Nonfiction\n\n\n\nSpring 2025\n\nSTOR 496: Undergraduate Reading and Research in Statistics and Operations Research\n\n\n\nFall 2025\n\nSOCI 101: Sociological Perspectives\nSTOR 290: Special Topics in Statistics and Operations Research"
   }
 ]

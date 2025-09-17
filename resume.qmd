@@ -4,7 +4,7 @@ title: "Resume"
 
 ## Paper Resume
 
-<iframe src="files/august2025_resume.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="files/september_2025_resume.pdf" width="100%" height="600px" style="border: none;">
 
 This browser does not support PDFs. Please download the PDF to view it: <a href="files/resume.pdf">Download PDF</a>.
 
@@ -20,17 +20,17 @@ R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experien
 
 *Analytics Intern* \| *Summer 2025*
 
--   Designed, implemented, and tested a unified, scalable schema for a global hospitality client’s web and mobile applications using Adobe tools. 
--   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database, and developed a bot classification model to improve their bot recognition using BigQuery. 
--   Improved a company-wide Looker dashboard used by survey captains to analyze biweekly team sentiment and inform workflow improvements across all projects.
+-   Designed, implemented, and tested a unified, scalable schema for a global hospitality client’s web and mobile applications using **Adobe tools**. 
+-   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database, and developed a bot classification model to improve their bot recognition using **BigQuery**. 
+-   Improved a company-wide **Looker** dashboard used by survey captains to analyze biweekly team sentiment and inform workflow improvements across all projects.
 
 ### QlikTech Inc.
 
 *Analytics Intern* \| *March 2022 -- March 2024 (Seasonal)*
 
 -   Contributed to the creation and editing of technical documentation for annual software product conference for 3000 users
--   Co-created customer relationship data analysis application using QlikTech software which used KPIs and other data to monitor keymetrics such as website traffic
--   Used Excel to organize thousands of employee equity documents to ensure the accuracy and completeness of each employee's files
+-   Co-created an interactive customer relationship analysis application in **QlikTech**, leveraging business intelligence techniques to monitor key metrics such as website session traffic. 
+-   Used **Excel** to organize thousands of employee equity documents to ensure the accuracy and completeness of each employee's files
 -   Shadowed a Senior Data Scientist to learn key industry techniques
 
 ## Research
@@ -41,7 +41,7 @@ R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experien
 
 -   Diagnose and investigate ways to improve athlete training and team performance across UNC Division 1 athletics
 -   Clearly and simply articulate technical sports analytics research to coaches without analytical expertise
--   Construct informative and interactive visualizations and mathematical models, and analyze complex datasets using software such as R
+-   Construct informative and interactive visualizations and mathematical models, and analyze complex datasets using software such as **R**
 -   Collaborate with other undergraduate and graduate students on case competitions and independent research projects
 -   Utilize crucial data science skills such as web-scraping, data wrangling, and visualization
 
@@ -77,8 +77,8 @@ R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experien
 
 *Analytics Innovator* \| *November 2021-February 2022*
 
--   Spent 15 hours self-learning QlikTech analytics software
--   Created a custom app using QlikTech software highlighting performance, including individual shot-making and team offensive efficiency
+-   Spent 15 hours self-learning **QlikTech** analytics software
+-   Created a custom app using **QlikTech software** highlighting performance, including individual shot-making and team offensive efficiency
 -   Empowered coaches with an innovative decision-making process to determine the distribution of minutes for each player and allowed for the creation of a new offensive scheme
 
 ## Certifications
