@@ -60,6 +60,14 @@ title: "Education"
 
 -   STOR 565: Machine Learning
 
+#### **Spring 2026**
+
+-   DATA 440: Computational Methods for Data Science
+
+-   STOR 445: Stochastic Modeling
+
+-   STOR 572: Simulation for Analytics
+
 ### Non-Major Coursework
 
 #### **Fall 2023**
@@ -89,5 +97,11 @@ title: "Education"
 #### **Fall 2025**
 
 -   SOCI 101: Sociological Perspectives
+
+-   STOR 290: Special Topics in Statistics and Operations Research
+
+#### **Spring 2026**
+
+-   PLAN 257: Tools for Urbanists
 
 -   STOR 290: Special Topics in Statistics and Operations Research

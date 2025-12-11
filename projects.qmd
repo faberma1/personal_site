@@ -24,6 +24,12 @@ Accepted to present my research at the [New England Symposium on Statistics in S
 
 <a href="files/nflpa_poster.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Poster 📊 </a>
 
+## An Open-Source Pipeline for College Basketball Lineup Analytics
+
+**Abstract**: Although lineup data is an invaluable tool for college basketball programs across the country, lineup-level analytics remain difficult to access in college basketball, especially in the women’s game, where public data is inconsistent and most advanced tools are locked behind paywalls. By harnessing publicly available data from the NCAA and ESPN, this project develops a solution to fill this gap: an open-source, fully automated pipeline that reconstructs true on-court lineups, computes transparent performance metrics, and visualizes them in an interactive R Shiny application. This system provides coaches with actionable insights that go far beyond traditional box-score statistics by integrating lineup efficiencies, individual player impact, and opponent scouting into a single platform. A case study on the 2024-25 UNC Men’s Basketball team then illustrates the tool’s practical value, revealing lineup strengths and matchup tendencies that could influence strategic decisions in both preparation and in-game situations. Overall, the pipeline offers accessible, reproducible solutions capable of serving both men’s and women’s programs, while also laying the foundation for future prescriptive features such as pre-game lineup optimization and real-time substitution recommendations.
+
+<a href="files/STOR_290_paper.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Paper 📄</a>
+
 ## Chapel Hill Business Analysis
 
 **Project Description**: Chapel Hill is growing, and the increase in population calls for more opportunities for potential new business owners and those looking for expansion. To assist these entrepreneurs, we used current business data from the government of Chapel Hill to provide recommendations on what types of businesses to open and where to open them. We prepared a five-minute presentation meant for non-technical stakeholders and a more detailed follow-up report to clearly communicate our recommendations.
@@ -37,6 +43,12 @@ Accepted to present my research at the [New England Symposium on Statistics in S
 **Project Description**: As a Philadelphia 76ers fan, the 2025 NBA Draft Lottery was a rollercoaster. After San Antonio and Dallas jumped to the top 4, it seemed very unlikely that the Sixers would keep their top-6-protected first-round pick. However, just a few picks later, the Sixers were the overwhelming favorite to receive the first overall pick. Inspired by this, I created a 2025 NBA Draft Lottery Simulator that allows the user to see the simulated probabilities for each team to receive each pick, with the option to force a team into a specific pick. This lets the user go back in time to look at the updated odds before each pick or at entirely other scenarios that didn't happen.
 
 <a href="https://shanefaberman.shinyapps.io/lottery_odds/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> R Shiny App 🛜 </a>
+
+## 2026 NBA Draft Lottery Simulator
+
+**Project Description**: As the 2026 NBA season kicked off, I found myself wanting to try different scenarios on the lottery simulator tool that I had built after the 2025 season ended. Since I developed the 2025 version after the end of the regular season, it relied on a CSV file of lottery odds. To improve the app and allow users to access it during the season, I scraped the lottery odds directly from [tankathon.com](https://www.tankathon.com/pick_odds), so users can always simulate the lottery with the current odds.
+
+<a href="https://shanefaberman.shinyapps.io/lottery_odds_2026/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> R Shiny App 🛜 </a>
 
 ## Olympic Competition Dynamics Project
 
@@ -59,6 +71,12 @@ Accepted to present my research at the [New England Symposium on Statistics in S
 <a href="files/stor320_paper.html" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Paper 📄</a>
 
 <a href="files/stor320_slides.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Slides 📈 </a>
+
+## Tree Ensemble Modeling for Heart Disease Classification
+
+**Project Description**: In this project, our team aimed to develop a machine learning model to classify whether or not a patient has heart disease. Heart disease is the leading cause of death in the United States, making it an important topic to research. By accurately predicting whether or not a patient has heart disease, physicians would be able to be more sure of their diagnosis and provide better patient care. We explored several machine learning techniques (AdaBoost, Gradient Boosting, and Random Forest), implemented with methods from the scikit-learn package in Python.
+
+<a href="files/STOR_565_final_paper.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3EB489; color: white; text-decoration: none; border-radius: 5px; border: 2px solid black;"> Paper 📄</a>
 
 ## Predictive Policing Ethical Investigation
 
