@@ -14,7 +14,7 @@ title: "Education"
 
     -   Bachelor of Science in Data Science and Bachelor of Science in Statistics & Analytics
 
-    -   GPA: 3.99/4.00
+    -   GPA: 3.98/4.00
 
 ## Coursework
 
