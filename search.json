@@ -7,11 +7,11 @@
     "text": "Degree Details\nUniversity of North Carolina\n\nChapel Hill, NC | September 2023 - August 2027\n\nBachelor of Science in Data Science and Bachelor of Science in Statistics & Analytics\nGPA: 3.98/4.00"
   },
   {
-    "objectID": "education.html#coursework",
-    "href": "education.html#coursework",
+    "objectID": "education.html#relevant-coursework",
+    "href": "education.html#relevant-coursework",
     "title": "Education",
-    "section": "Coursework",
-    "text": "Coursework\n\nMajor Coursework\n\nFall 2023\n\nMATH 233: Calculus of Functions of Several Variables\nSTOR 155: Introduction to Data Models and Inference\n\n\n\nSpring 2024\n\nCOMP 110: Introduction to Programming\nMATH 381: Discrete Mathematics\n\n\n\nFall 2024\n\nCOMP 210: Data Structures and Analysis\nDATA 110: Introduction to Data Science\nDATA 150: Communication for Data Scientists\nMATH 347: Linear Algebra\n\n\n\nSpring 2025\n\nDATA 120: Ethics of Data Science and Artificial Intelligence\nSTOR 320: Introduction to Data Science\nSTOR 415: Introduction to Optimization\nSTOR 535: Probability for Data Science\n\n\n\nFall 2025\n\nSTOR 455: Methods of Data Analysis\nSTOR 555: Mathematical Statistics\nSTOR 565: Machine Learning\n\n\n\nSpring 2026\n\nDATA 440: Computational Methods for Data Science\nSTOR 445: Stochastic Modeling\nSTOR 572: Simulation for Analytics\n\n\n\n\nNon-Major Coursework\n\nFall 2023\n\nENGL 105: English Composition and Rhetoric\nHIST 140: The World Since 1945\nIDST 130: The Future of Food\nIDST 130L: Data Literacy Lab\n\n\n\nSpring 2024\n\nASIA 75: Love in China\nECON 101: Introduction to Economics\n\n\n\nFall 2024\n\nENGL 138: Introduction to Creative Nonfiction\n\n\n\nSpring 2025\n\nSTOR 496: Undergraduate Reading and Research in Statistics and Operations Research\n\n\n\nFall 2025\n\nSOCI 101: Sociological Perspectives\nSTOR 290: Special Topics in Statistics and Operations Research\n\n\n\nSpring 2026\n\nPLAN 257: Tools for Urbanists\nSTOR 290: Special Topics in Statistics and Operations Research"
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\n\nCOMP 110: Introduction to Programming\nCOMP 210: Data Structures and Analysis\nDATA 110: Introduction to Data Science\nDATA 120: Ethics of Data Science and Artificial Intelligence\nDATA 150: Communication for Data Scientists\nDATA 440: Computational Methods for Data Science\nECON 101: Introduction to Economics\nMATH 233: Calculus of Functions of Several Variables\nMATH 347: Linear Algebra\nMATH 381: Discrete Mathematics\nSTOR 155: Introduction to Data Models and Inference\nSTOR 320: Introduction to Data Science\nSTOR 415: Introduction to Optimization\nSTOR 445: Stochastic Modeling\nSTOR 455: Methods of Data Analysis\nSTOR 535: Probability for Data Science\nSTOR 555: Mathematical Statistics\nSTOR 557: Advanced Methods of Data Analysis\nSTOR 565: Machine Learning\nSTOR 566: Introduction to Deep Learning\nSTOR 572: Simulation for Analytics"
   },
   {
     "objectID": "projects.html",
