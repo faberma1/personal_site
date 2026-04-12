@@ -16,92 +16,46 @@ title: "Education"
 
     -   GPA: 3.98/4.00
 
-## Coursework
-
-### Major Coursework
-
-#### **Fall 2023**
-
--   MATH 233: Calculus of Functions of Several Variables
-
--   STOR 155: Introduction to Data Models and Inference
-
-#### **Spring 2024**
+## Relevant Coursework
 
 -   COMP 110: Introduction to Programming
-
--   MATH 381: Discrete Mathematics
-
-#### **Fall 2024**
 
 -   COMP 210: Data Structures and Analysis
 
 -   DATA 110: Introduction to Data Science
 
+-   DATA 120: Ethics of Data Science and Artificial Intelligence
+
 -   DATA 150: Communication for Data Scientists
+
+-   DATA 440: Computational Methods for Data Science
+
+-   ECON 101: Introduction to Economics
+
+-   MATH 233: Calculus of Functions of Several Variables
 
 -   MATH 347: Linear Algebra
 
-#### **Spring 2025**
+-   MATH 381: Discrete Mathematics
 
--   DATA 120: Ethics of Data Science and Artificial Intelligence
+-   STOR 155: Introduction to Data Models and Inference
 
 -   STOR 320: Introduction to Data Science
 
 -   STOR 415: Introduction to Optimization
 
--   STOR 535: Probability for Data Science
-
-#### **Fall 2025**
+-   STOR 445: Stochastic Modeling
 
 -   STOR 455: Methods of Data Analysis
 
+-   STOR 535: Probability for Data Science
+
 -   STOR 555: Mathematical Statistics
+
+-   STOR 557: Advanced Methods of Data Analysis
 
 -   STOR 565: Machine Learning
 
-#### **Spring 2026**
-
--   DATA 440: Computational Methods for Data Science
-
--   STOR 445: Stochastic Modeling
+-   STOR 566: Introduction to Deep Learning
 
 -   STOR 572: Simulation for Analytics
-
-### Non-Major Coursework
-
-#### **Fall 2023**
-
--   ENGL 105: English Composition and Rhetoric
-
--   HIST 140: The World Since 1945
-
--   IDST 130: The Future of Food
-
--   IDST 130L: Data Literacy Lab
-
-#### **Spring 2024**
-
--   ASIA 75: Love in China
-
--   ECON 101: Introduction to Economics
-
-#### **Fall 2024**
-
--   ENGL 138: Introduction to Creative Nonfiction
-
-#### **Spring 2025**
-
--   STOR 496: Undergraduate Reading and Research in Statistics and Operations Research
-
-#### **Fall 2025**
-
--   SOCI 101: Sociological Perspectives
-
--   STOR 290: Special Topics in Statistics and Operations Research
-
-#### **Spring 2026**
-
--   PLAN 257: Tools for Urbanists
-
--   STOR 290: Special Topics in Statistics and Operations Research

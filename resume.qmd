@@ -12,7 +12,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 ## Skills
 
-R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform, Google Analytics 4, Looker, Tableau, JavaScript, Qlik Sense, Quarto, AMPL
+R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform, Google Analytics 4, Looker, Tableau, Java, Qlik Sense, Quarto, AMPL
 
 ## Related Work Experience
 
