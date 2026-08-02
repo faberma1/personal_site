@@ -4,7 +4,7 @@ title: "Resume"
 
 ## Paper Resume
 
-<iframe src="files/dec2025_resume.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="files/Shane Faberman Aug 26 Resume.pdf" width="100%" height="600px" style="border: none;">
 
 This browser does not support PDFs. Please download the PDF to view it: <a href="files/resume.pdf">Download PDF</a>.
 
@@ -12,24 +12,39 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 ## Skills
 
-R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Adobe Experience Platform, Google Analytics 4, Looker, Tableau, Java, Qlik Sense, Quarto, AMPL
+R, R Shiny, Python, SQL, Excel, Adobe Customer Journey Analytics, Google Analytics 4, Looker, Tableau, Julia, Qlik Sense
 
 ## Related Work Experience
+
+### NBA
+
+*Basketball Strategy and Growth Intern* \| *Summer 2026*
+
+-   Developed machine learning models using **R** to estimate player substitution probabilities across millions of player-possession observations using large-scale internal NBA data.
+-   Architected anomaly detection frameworks to identify unusual coaching decisions relative to coach-specific historical patterns.
+-   Built the NBA’s first ever way to monitor coaching integrity: a **React** application that updates daily in-season; operationalizing coaching anomaly models, surfacing flagged rotation decisions, and alerting the Basketball Integrity team to potential concerns via a Slack bot.
 
 ### WillowTree (Now TELUS Digital)
 
 *Analytics Intern* \| *Summer 2025*
 
--   Designed, implemented, and tested a unified, scalable schema for a global hospitality client’s web and mobile applications using **Adobe tools**. 
--   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database, and developed a bot classification model to improve their bot recognition using **BigQuery**. 
+-   Designed, implemented, and tested a unified, scalable schema for a global hospitality client’s web and mobile applications using **Adobe tools**.
+-   Identified over 1.2 million misclassified web analytics events and over 15,000 rows of inaccurate revenue data in a client database, and developed a bot classification model to improve their bot recognition using **BigQuery**.
 -   Improved a company-wide **Looker** dashboard used by survey captains to analyze biweekly team sentiment and inform workflow improvements across all projects.
+
+### UNC School of School of Data and Information Sciences
+
+*Undergraduate Learning Assistant for DATA 110: Introduction to Data Science* \| *August 2026 -- Present*
+
+-   Hold weekly office hours supporting 50+ students in Introduction to Python programming, data wrangling, statistical analysis, and visualization
+-   Grade programming assignments, quizzes, and final projects, providing detailed feedback on code quality and reasoning
 
 ### QlikTech Inc.
 
 *Analytics Intern* \| *March 2022 -- March 2024 (Seasonal)*
 
 -   Contributed to the creation and editing of technical documentation for annual software product conference for 3000 users
--   Co-created an interactive customer relationship analysis application in **QlikTech**, leveraging business intelligence techniques to monitor key metrics such as website session traffic. 
+-   Co-created an interactive customer relationship analysis application in **QlikTech**, leveraging business intelligence techniques to monitor key metrics such as website session traffic.
 -   Used **Excel** to organize thousands of employee equity documents to ensure the accuracy and completeness of each employee's files
 -   Shadowed a Senior Data Scientist to learn key industry techniques
 
